@@ -60,7 +60,7 @@ export default function App() {
                   style={styles.likeText}
                   testID={`repository-likes-${id}`}
                 >
-                {likes} curtida(s)
+                {likes} curtidas
                 </Text>
               </View>
 
